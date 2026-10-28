@@ -1,0 +1,56 @@
+[
+  {
+    "number": 1,
+    "name": "سُورَةُ ٱلْفَاتِحَةِ",
+    "englishName": "Al-Faatiha",
+    "ayahs": 7
+  },
+  {
+    "number": 2,
+    "name": "سُورَةُ البَقَرَةِ",
+    "englishName": "Al-Baqara",
+    "ayahs": 286
+  },
+  {
+    "number": 18,
+    "name": "سُورَةُ الكَهۡفِ",
+    "englishName": "Al-Kahf",
+    "ayahs": 110
+  },
+  {
+    "number": 36,
+    "name": "سُورَةُ يسٓ",
+    "englishName": "Yaseen",
+    "ayahs": 83
+  },
+  {
+    "number": 55,
+    "name": "سُورَةُ الرَّحۡمَٰن",
+    "englishName": "Ar-Rahmaan",
+    "ayahs": 78
+  },
+  {
+    "number": 67,
+    "name": "سُورَةُ المُلۡكِ",
+    "englishName": "Al-Mulk",
+    "ayahs": 30
+  },
+  {
+    "number": 112,
+    "name": "سُورَةُ الإِخۡلَاصِ",
+    "englishName": "Al-Ikhlaas",
+    "ayahs": 4
+  },
+  {
+    "number": 113,
+    "name": "سُورَةُ الفَلَقِ",
+    "englishName": "Al-Falaq",
+    "ayahs": 5
+  },
+  {
+    "number": 114,
+    "name": "سُورَةُ النَّاسِ",
+    "englishName": "An-Naas",
+    "ayahs": 6
+  }
+]
