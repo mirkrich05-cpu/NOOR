@@ -1,0 +1,123 @@
+[
+  {
+    "id": "morning_1",
+    "category": "morning",
+    "titleEn": "Morning Remembrance - Ayat al-Kursi",
+    "titleAr": "أذكار الصباح - آية الكرسي",
+    "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "transliteration": "Allahu la ilaha illa Huwal-Hayyul-Qayyum, la ta'khudhuhu sinatun wa la nawm...",
+    "translation": "Allah - there is no deity except Him, the Ever-Living, the Sustainer of all existence. Neither drowsiness overtakes Him nor sleep...",
+    "source": "Surah Al-Baqarah 2:255 (An-Nasa'i)",
+    "targetCount": 1
+  },
+  {
+    "id": "morning_2",
+    "category": "morning",
+    "titleEn": "Morning Supplication",
+    "titleAr": "أصبحنا وأصبح الملك لله",
+    "arabic": "أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Asbahna wa asbahal-mulku lillah, walhamdu lillah, la ilaha illallahu wahdahu la sharika lah, lahul-mulku wa lahul-hamdu wa Huwa 'ala kulli shay'in Qadir.",
+    "translation": "We have reached the morning and at this very time all sovereignty belongs to Allah, and all praise is for Allah. None has the right to be worshipped except Allah alone, without partner.",
+    "source": "Sahih Muslim 2723",
+    "targetCount": 1
+  },
+  {
+    "id": "morning_3",
+    "category": "morning",
+    "titleEn": "Sayyidul Istighfar (Master Supplication for Forgiveness)",
+    "titleAr": "سيد الاستغفار",
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَٰهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لَكَ بِذَنْبِي فَاغْفِرْ لِي، فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "transliteration": "Allahumma Anta Rabbi la ilaha illa Anta, khalaqtani wa ana 'abduka, wa ana 'ala 'ahdika wa wa'dika mastata'tu...",
+    "translation": "O Allah, You are my Lord, none has the right to be worshipped except You. You created me and I am Your servant, and I abide to Your covenant and promise as best I can...",
+    "source": "Sahih al-Bukhari 6306",
+    "targetCount": 1
+  },
+  {
+    "id": "morning_4",
+    "category": "morning",
+    "titleEn": "SubhanAllahi wa bihamdihi (100 times)",
+    "titleAr": "سبحان الله وبحمده",
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "transliteration": "Subhan-Allahi wa bihamdihi.",
+    "translation": "Glory is to Allah and praise is to Him.",
+    "source": "Sahih Muslim 2691",
+    "targetCount": 100
+  },
+  {
+    "id": "evening_1",
+    "category": "evening",
+    "titleEn": "Evening Supplication",
+    "titleAr": "أمسينا وأمسى الملك لله",
+    "arabic": "أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لَا إِلَٰهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+    "transliteration": "Amsayna wa amsal-mulku lillah, walhamdu lillah, la ilaha illallahu wahdahu la sharika lah...",
+    "translation": "We have reached the evening and at this very time all sovereignty belongs to Allah, and all praise is for Allah. None has the right to be worshipped except Allah alone.",
+    "source": "Sahih Muslim 2723",
+    "targetCount": 1
+  },
+  {
+    "id": "evening_2",
+    "category": "evening",
+    "titleEn": "Protection in the Evening",
+    "titleAr": "بِسْمِ اللهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ",
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "transliteration": "Bismillahil-ladhi la yadurru ma'as-mihi shay'un fil-ardi wa la fis-sama'i wa Huwas-Sami'ul-'Alim.",
+    "translation": "In the Name of Allah with Whose Name there is protection against every kind of harm in the earth or in the heaven, and He is the All-Hearing and All-Knowing.",
+    "source": "Abu Dawud 5088, At-Tirmidhi 3388",
+    "targetCount": 3
+  },
+  {
+    "id": "after_prayer_1",
+    "category": "after_prayer",
+    "titleEn": "Seeking Forgiveness After Salam",
+    "titleAr": "أستغفر الله بعد السلام",
+    "arabic": "أَسْتَغْفِرُ اللَّهَ (ثَلَاثًا) اللَّهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
+    "transliteration": "Astaghfirullah (3x). Allahumma Antas-Salamu wa minkas-salamu, tabarakta ya Dhal-Jalali wal-Ikram.",
+    "translation": "I seek the forgiveness of Allah (three times). O Allah, You are Peace and from You comes peace. Blessed are You, O Owner of majesty and honor.",
+    "source": "Sahih Muslim 591",
+    "targetCount": 1
+  },
+  {
+    "id": "after_prayer_2",
+    "category": "after_prayer",
+    "titleEn": "Tasbeeh After Prayer (33x)",
+    "titleAr": "التسبيح والتحميد والتكبير",
+    "arabic": "سُبْحَانَ اللَّهِ، وَالْحَمْدُ لِلَّهِ، وَاللَّهُ أَكْبَرُ",
+    "transliteration": "SubhanAllah (33), Alhamdulillah (33), Allahu Akbar (33)",
+    "translation": "Glory be to Allah, Praise be to Allah, Allah is the Greatest.",
+    "source": "Sahih Muslim 597",
+    "targetCount": 33
+  },
+  {
+    "id": "sleep_1",
+    "category": "sleep",
+    "titleEn": "Before Sleeping",
+    "titleAr": "باسمك اللهم أموت وأحيا",
+    "arabic": "بِاسْمِكَ اللَّهُمَّ أَمُوتُ وَأَحْيَا",
+    "transliteration": "Bismika Allahumma amutu wa ahya.",
+    "translation": "In Your name O Allah, I live and die.",
+    "source": "Sahih al-Bukhari 6324",
+    "targetCount": 1
+  },
+  {
+    "id": "waking_1",
+    "category": "waking",
+    "titleEn": "Upon Waking Up",
+    "titleAr": "الحمد لله الذي أحيانا بعد ما أماتنا",
+    "arabic": "الْحَمْدُ لِلَّهِ الَّذِي أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُورُ",
+    "transliteration": "Alhamdu lillahil-ladhi ahyana ba'da ma amatana wa ilayhin-nushur.",
+    "translation": "All praise is for Allah who gave us life after having taken it from us and unto Him is the resurrection.",
+    "source": "Sahih al-Bukhari 6312",
+    "targetCount": 1
+  },
+  {
+    "id": "travel_1",
+    "category": "travel",
+    "titleEn": "Supplication for Travel",
+    "titleAr": "دعاء السفر",
+    "arabic": "سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَىٰ رَبِّنَا لَمُنقَلِبُونَ",
+    "transliteration": "Subhanal-ladhi sakh-khara lana hadha wa ma kunna lahu muqrinin. Wa inna ila Rabbina lamunqalibun.",
+    "translation": "Glory unto Him Who created this transportation, for us, though we were unable to create it on our own. And unto our Lord we shall return.",
+    "source": "Sahih Muslim 1342",
+    "targetCount": 1
+  }
+]
